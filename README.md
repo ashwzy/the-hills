@@ -18,3 +18,8 @@ MarkDown是一种超文本语言,今天我第一次学习了它。
 有点意思，下面这张gif可以形容我的心情:
 
 ![1]:https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif
+git add -A 提交的第一步命令
+git commit -m "本次提交的修改的备注" 提交的第二步命令
+git push origin main 第一次提到分支时的命令
+git push 第二次开始后提交到本分支时的命令
+git push origin b 提交到其他分支时的命令
